@@ -1,4 +1,4 @@
-import Form from "./Pembahasan/Form/index"
+import Form from "./Pembahasan/Materi/index"
 
 
 function App() {
